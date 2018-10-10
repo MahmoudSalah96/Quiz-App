@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question1">1-The Earth is the fourth planet from the sun?</string>
+    <string name="yes">True</string>
+    <string name="no">False</string>
+
+    <string name="question2">2-Which player has the most red cards in la-liga?</string>
+    <string name="ans2_1">Gerard Pique.</string>
+    <string name="ans2_2">Sergio Ramos.</string>
+    <string name="ans2_3">Lionel Messi.</string>
+    <string name="ans2_4">Cristiano ronaldo.</string>
+
+    <string name="question3">3-Compute the following equation</string>
+    <string name="equation">(3 * 5 + 7) /2</string>
+
+    <string name="question4">4-who is the top premier league goal scorer this season?</string>
+
+    <string name="question5">5-Egyptian citizen who won nobel prize?   (choose two)</string>
+    <string name="ans5_1">Mustafa Mahmoud.</string>
+    <string name="ans5_2">Naguib Mahfouz.</string>
+    <string name="ans5_3">Anis Mansour.</string>
+    <string name="ans5_4">Ahmed Zewail.</string>
+
+    <string name="question6">6-Seven wonders of the ancient world exist in Egypt?   (choose two)</string>
+    <string name="ans6_1">Lighthouse of Alexandria.</string>
+    <string name="ans6_2">Colossus of Rhodes.</string>
+    <string name="ans6_3">Statue of Zeus.</string>
+    <string name="ans6_4">Great Pyramid of Giza.</string>
+
+    <string name="Result">RESULT</string>
+
+</resources>
